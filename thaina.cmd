@@ -89,4 +89,4 @@ echo.
 echo ==========================================
 echo       PROJETO ENVIADO PARA O GITHUB!
 echo ==========================================
-pause
+start "" https://github.com/thainadcsantos/aulasphp
