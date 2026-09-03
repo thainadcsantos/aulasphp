@@ -1,9 +1,9 @@
 @echo off
 chcp 65001 > nul
 
-echo ==========================================
-echo       GERANDO README E ENVIANDO GIT
-echo ==========================================
+echo ==========================================================
+echo       GERANDO README E ENVIANDO GIT em %date% %time%
+echo ==========================================================
 
 (
 echo # 🐘 Aula 6 - PHP CRUD
