@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'projeto/mvc',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => 'c3cc0018f48ca66af7cbd02af8ca0469d69176fb',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'projeto/mvc' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => 'c3cc0018f48ca66af7cbd02af8ca0469d69176fb',
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

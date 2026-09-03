@@ -1,0 +1,354 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 9274-DB15
+
+ Pasta de C:\dev\php\aula3
+
+03/09/2026  16:31    <DIR>          .
+27/08/2026  14:13    <DIR>          ..
+03/09/2026  16:31                 0 a.txt
+27/08/2026  14:06               278 bkp.cmd
+27/08/2026  14:06               181 composer.json
+27/08/2026  14:06               618 composer.lock
+03/09/2026  15:06    <DIR>          public
+27/08/2026  14:06               160 server.cmd
+27/08/2026  14:06    <DIR>          src
+27/08/2026  14:06    <DIR>          vendor
+               5 arquivo(s)          1.237 bytes
+
+ Pasta de C:\dev\php\aula3\.git
+
+03/09/2026  16:31    <DIR>          ..
+27/08/2026  13:57               130 config
+25/08/2026  17:31                73 description
+25/08/2026  17:31                21 HEAD
+25/08/2026  17:31    <DIR>          hooks
+25/08/2026  17:31             2.024 index
+25/08/2026  17:31    <DIR>          info
+25/08/2026  17:31    <DIR>          objects
+25/08/2026  17:31    <DIR>          refs
+               4 arquivo(s)          2.248 bytes
+
+ Pasta de C:\dev\php\aula3\.git\hooks
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31               478 applypatch-msg.sample
+25/08/2026  17:31             1.972 commit-msg.sample
+25/08/2026  17:31             4.611 fsmonitor-watchman.sample
+25/08/2026  17:31               189 post-update.sample
+25/08/2026  17:31               424 pre-applypatch.sample
+25/08/2026  17:31             1.649 pre-commit.sample
+25/08/2026  17:31               416 pre-merge-commit.sample
+25/08/2026  17:31             1.374 pre-push.sample
+25/08/2026  17:31             4.898 pre-rebase.sample
+25/08/2026  17:31               544 pre-receive.sample
+25/08/2026  17:31             1.492 prepare-commit-msg.sample
+25/08/2026  17:31             2.783 push-to-checkout.sample
+25/08/2026  17:31             2.308 sendemail-validate.sample
+25/08/2026  17:31             3.650 update.sample
+              14 arquivo(s)         26.788 bytes
+
+ Pasta de C:\dev\php\aula3\.git\info
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31               240 exclude
+               1 arquivo(s)            240 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          07
+25/08/2026  17:31    <DIR>          0f
+25/08/2026  17:31    <DIR>          14
+25/08/2026  17:31    <DIR>          15
+25/08/2026  17:31    <DIR>          20
+25/08/2026  17:31    <DIR>          30
+25/08/2026  17:31    <DIR>          32
+25/08/2026  17:31    <DIR>          4d
+25/08/2026  17:31    <DIR>          59
+25/08/2026  17:31    <DIR>          6b
+25/08/2026  17:31    <DIR>          78
+25/08/2026  17:31    <DIR>          87
+25/08/2026  17:31    <DIR>          9f
+25/08/2026  17:31    <DIR>          a6
+25/08/2026  17:31    <DIR>          b0
+25/08/2026  17:31    <DIR>          b9
+25/08/2026  17:31    <DIR>          ba
+25/08/2026  17:31    <DIR>          c5
+25/08/2026  17:31    <DIR>          d9
+25/08/2026  17:31    <DIR>          da
+25/08/2026  17:31    <DIR>          f2
+25/08/2026  17:31    <DIR>          f3
+25/08/2026  17:31    <DIR>          info
+25/08/2026  17:31    <DIR>          pack
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\07
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               271 7f5d08ed4f6e5231cc1795810b71e58e22e4aa
+               1 arquivo(s)            271 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\0f
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               165 b0a2c194b8590999a5ed79e357d4a9c1e9d8b8
+               1 arquivo(s)            165 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\14
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               464 bf88da3a275e479ac06899206b3cae18a40893
+               1 arquivo(s)            464 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\15
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               126 a2ff3ad6d8d6ea2b6b1f9552c62d745ffc9bf4
+               1 arquivo(s)            126 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\20
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31             3.901 52022fd8e1e0829ce5496bd663c0aed41dd634
+               1 arquivo(s)          3.901 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\30
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               404 da603f8a46242773abcee8d6fbf7c45c7322b4
+               1 arquivo(s)            404 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\32
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               147 8617cd6c618d91b70ce59b95a5629a068f6e2a
+               1 arquivo(s)            147 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\4d
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               472 b6abf95c902897c9bf5896ac7792763f6237cd
+               1 arquivo(s)            472 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\59
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               140 054099f13e074b2c06a9302684dd3942efb4b5
+               1 arquivo(s)            140 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\6b
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               177 1602b6f9912bf81463b237c9b0e9d3791011d3
+               1 arquivo(s)            177 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\78
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31             4.230 24d8f7eafe8db890975f0fa2dfab31435900da
+               1 arquivo(s)          4.230 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\87
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31                60 fda747e6ce957c1bf1b4d373bb5c60dbf96e7d
+               1 arquivo(s)             60 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\9f
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               710 74697f74996657b2b1edc796e15f9dcf411b56
+               1 arquivo(s)            710 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\a6
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               408 be3b0a92a67f9275fc7280ebce0ff80284f291
+               1 arquivo(s)            408 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\b0
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               349 4c27acf0356e3cbcc51d263811531c403754f3
+               1 arquivo(s)            349 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\b9
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               138 0385d9ce8efda2c98fccf19c431a73b16714e5
+               1 arquivo(s)            138 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\ba
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               352 a98bed0e0fdadeadd82b9cbcd9478677ed8dfb
+               1 arquivo(s)            352 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\c5
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               424 96c9f88362f0d3047619f6088e33b003b9aa62
+               1 arquivo(s)            424 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\d9
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               447 c8c81bc05c5c19bce663dbd57c140499adccb7
+               1 arquivo(s)            447 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\da
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               352 52ebeea42949ddae80a126dc07c09d663c3e41
+               1 arquivo(s)            352 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\f2
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               651 7399a042d95c4708af3a8c74d35d338763cf8f
+               1 arquivo(s)            651 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\f3
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+25/08/2026  17:31               204 1e2cfb9130f8af0b85345b0e13f5f82e6318f3
+               1 arquivo(s)            204 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\info
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula3\.git\objects\pack
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula3\.git\refs
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          heads
+25/08/2026  17:31    <DIR>          tags
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula3\.git\refs\heads
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula3\.git\refs\tags
+
+25/08/2026  17:31    <DIR>          .
+25/08/2026  17:31    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula3\public
+
+03/09/2026  15:06    <DIR>          .
+03/09/2026  16:31    <DIR>          ..
+27/08/2026  14:06               212 footer.php
+03/09/2026  14:45                93 index.php
+03/09/2026  14:46             2.240 layout.php
+03/09/2026  16:24             1.076 pessoa-cadastrar.php
+03/09/2026  14:46             1.572 pessoa-create.php
+27/08/2026  14:06               621 teste.php
+               6 arquivo(s)          5.814 bytes
+
+ Pasta de C:\dev\php\aula3\src
+
+27/08/2026  14:06    <DIR>          .
+03/09/2026  16:31    <DIR>          ..
+27/08/2026  14:06    <DIR>          Config
+27/08/2026  14:06    <DIR>          Controller
+03/09/2026  15:54    <DIR>          DAO
+03/09/2026  14:52    <DIR>          Model
+25/08/2026  15:25    <DIR>          View
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula3\src\Config
+
+27/08/2026  14:06    <DIR>          .
+27/08/2026  14:06    <DIR>          ..
+27/08/2026  14:06               792 Database.php
+               1 arquivo(s)            792 bytes
+
+ Pasta de C:\dev\php\aula3\src\Controller
+
+27/08/2026  14:06    <DIR>          .
+27/08/2026  14:06    <DIR>          ..
+27/08/2026  14:06               682 HomeController.php
+               1 arquivo(s)            682 bytes
+
+ Pasta de C:\dev\php\aula3\src\DAO
+
+03/09/2026  15:54    <DIR>          .
+27/08/2026  14:06    <DIR>          ..
+03/09/2026  16:30             1.252 PessoaDAO.php
+               1 arquivo(s)          1.252 bytes
+
+ Pasta de C:\dev\php\aula3\src\Model
+
+03/09/2026  14:52    <DIR>          .
+27/08/2026  14:06    <DIR>          ..
+03/09/2026  15:01             2.040 Pessoa.php
+               1 arquivo(s)          2.040 bytes
+
+ Pasta de C:\dev\php\aula3\src\View
+
+25/08/2026  15:25    <DIR>          .
+27/08/2026  14:06    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula3\vendor
+
+27/08/2026  14:06    <DIR>          .
+03/09/2026  16:31    <DIR>          ..
+03/09/2026  16:24               748 autoload.php
+27/08/2026  14:06    <DIR>          composer
+               1 arquivo(s)            748 bytes
+
+ Pasta de C:\dev\php\aula3\vendor\composer
+
+27/08/2026  14:06    <DIR>          .
+27/08/2026  14:06    <DIR>          ..
+03/09/2026  16:24               222 autoload_classmap.php
+03/09/2026  16:24               139 autoload_namespaces.php
+03/09/2026  16:24               174 autoload_psr4.php
+03/09/2026  16:24             1.137 autoload_real.php
+03/09/2026  16:24             1.039 autoload_static.php
+01/07/2026  06:24            16.378 ClassLoader.php
+03/09/2026  16:24                69 installed.json
+03/09/2026  16:24               684 installed.php
+03/09/2026  16:24            17.395 InstalledVersions.php
+01/07/2026  06:24             1.070 LICENSE
+03/09/2026  16:24               917 platform_check.php
+              11 arquivo(s)         39.224 bytes
+
+     Total de Arquivos na Lista:
+              68 arquivo(s)         95.657 bytes
+             116 pasta(s)   68.440.018.944 bytes dispon°veis
