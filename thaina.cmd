@@ -1,9 +1,9 @@
 @echo off
 chcp 65001 > nul
 
-echo ==========================================================
-echo       GERANDO README E ENVIANDO GIT em %date% %time%
-echo ==========================================================
+echo ===================================
+echo       GERANDO README E ENVIANDO GIT
+echo ===================================
 
 (
 echo # 🐘 Aula 6 - PHP CRUD
@@ -69,7 +69,7 @@ echo ## 📅 Aula
 echo.
 echo **Aula 6 - PHP CRUD**
 echo.
-echo Data: `%date%`
+echo Data: `%date%` - `%time%`
 echo.
 echo ---
 echo.
